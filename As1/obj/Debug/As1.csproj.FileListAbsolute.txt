@@ -1,0 +1,14 @@
+C:\Users\dongl\Desktop\PRN292\Lab\As1\As1\bin\Debug\As1.exe.config
+C:\Users\dongl\Desktop\PRN292\Lab\As1\As1\bin\Debug\As1.exe
+C:\Users\dongl\Desktop\PRN292\Lab\As1\As1\bin\Debug\As1.pdb
+C:\Users\dongl\Desktop\PRN292\Lab\As1\As1\obj\Debug\As1.csprojAssemblyReference.cache
+C:\Users\dongl\Desktop\PRN292\Lab\As1\As1\obj\Debug\As1.csproj.CoreCompileInputs.cache
+C:\Users\dongl\Desktop\PRN292\Lab\As1\As1\obj\Debug\As1.exe
+C:\Users\dongl\Desktop\PRN292\Lab\As1\As1\obj\Debug\As1.pdb
+C:\Users\NAM\Desktop\Cham C#\As1\As1\bin\Debug\As1.exe.config
+C:\Users\NAM\Desktop\Cham C#\As1\As1\bin\Debug\As1.exe
+C:\Users\NAM\Desktop\Cham C#\As1\As1\bin\Debug\As1.pdb
+C:\Users\NAM\Desktop\Cham C#\As1\As1\obj\Debug\As1.csprojAssemblyReference.cache
+C:\Users\NAM\Desktop\Cham C#\As1\As1\obj\Debug\As1.csproj.CoreCompileInputs.cache
+C:\Users\NAM\Desktop\Cham C#\As1\As1\obj\Debug\As1.exe
+C:\Users\NAM\Desktop\Cham C#\As1\As1\obj\Debug\As1.pdb
